@@ -7,6 +7,9 @@
 
   --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino,
     "Book Antiqua", Georgia, "Times New Roman", Times, serif;
+
+  --sans: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, Helvetica, Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -56,6 +59,7 @@ a:hover {
 
 .archive a {
   display: inline-block;
+  font-family: var(--sans);
   padding: 4px 0;
 }
 
@@ -64,6 +68,7 @@ article {
 }
 
 article h1 {
+  font-family: var(--sans);
   font-weight: 600;
   letter-spacing: -0.01em;
   line-height: 1.25;
@@ -109,6 +114,7 @@ article img {
 .back {
   margin: 0 0 18px;
   font-size: 14px;
+  font-family: var(--sans);
   color: #71717b;
 }
 
