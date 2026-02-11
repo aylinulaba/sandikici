@@ -126,3 +126,24 @@ article img {
 .back a:hover {
   transform: translateX(3px);
 }
+
+.archive-item + .archive-item {
+  margin-top: 38px;
+}
+
+.archive .title {
+  font-family: var(--sans);
+  font-size: 18px;
+}
+
+.excerpt {
+  margin: 6px 0 8px;
+  font-size: 16px;
+  color: var(--muted);
+}
+
+.readmore {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: #71717b;
+}
