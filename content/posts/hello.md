@@ -1,13 +1,5 @@
 ---
-title: Hello
-date: 2026-02-11T12:00:00+03:00
+title: sssssusss… ısssss
+date: 2026-02-11T13:54:00.000+03:00
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eleifend, eros vitae faucibus aliquam, metus nunc venenatis tellus, ac venenatis mauris turpis vel eros. Ut nunc nulla, luctus nec lobortis sit amet, bibendum eu ligula. Fusce nec odio semper, feugiat dolor nec, ullamcorper risus. Vestibulum pellentesque odio nec turpis viverra, id accumsan libero finibus. Curabitur molestie rutrum ante et vulputate. Nullam tempor sapien ante, at pulvinar orci condimentum at. Nunc vitae nulla sollicitudin, sollicitudin metus at, rhoncus mauris. Proin in sagittis turpis. Nulla ac urna ac nibh pharetra blandit. Fusce lacinia luctus risus pretium faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
-Vestibulum ornare sit amet felis in ultrices. Pellentesque blandit ligula id felis ornare, eget auctor ligula laoreet. Integer elementum eros ut risus cursus suscipit. Cras facilisis massa erat, sit amet lacinia lacus mollis a. Donec lobortis lorem neque, nec sollicitudin quam volutpat quis. Sed libero velit, blandit in aliquam ac, vulputate eget elit. Quisque odio ante, eleifend sed metus sed, laoreet rutrum diam. Suspendisse potenti. Donec nec elit urna. Aliquam imperdiet tristique sapien nec faucibus. Morbi ac sollicitudin felis, a congue metus. Etiam quis sapien justo.
-
-Nulla pharetra erat eget libero pulvinar sollicitudin. Nullam eget facilisis nunc. Etiam dictum leo at dui commodo commodo. Aliquam interdum ex quis ex pulvinar, nec volutpat diam malesuada. Quisque vulputate sed ligula in euismod. Vestibulum lacus tortor, convallis ac tempus id, tincidunt vitae nunc. Phasellus ante mauris, pharetra nec sodales ut, condimentum a mi. Sed vel posuere nunc. Suspendisse potenti. Nulla eget metus in nisl luctus gravida. Donec libero mi, ultricies ac dapibus eget, convallis et mauris. Vivamus ac mauris euismod, dignissim risus id, porttitor urna. Aliquam at nisi nec augue feugiat dignissim id nec sapien. Nam sit amet nibh id orci tempus volutpat id eu velit.
-
-Suspendisse potenti. Praesent sodales, velit sit amet sagittis tincidunt, enim felis ullamcorper enim, eget molestie ex ante in diam. Aenean commodo libero id purus dictum sodales. Curabitur rhoncus massa eget magna lacinia convallis. Aliquam rhoncus lacus dapibus mollis egestas. Sed quis faucibus justo, vitae rhoncus tellus. Vestibulum laoreet magna dolor, eu cursus risus faucibus placerat. Fusce id elit eget erat vehicula semper. Suspendisse ultrices hendrerit facilisis. Cras molestie aliquet purus vitae posuere.
-
-Sed augue diam, mollis at augue vel, malesuada gravida neque. Integer gravida purus eget magna efficitur aliquet. Mauris luctus, ipsum a faucibus mattis, quam libero egestas eros, ac dapibus velit eros vel enim. Curabitur semper mollis leo vitae vehicula. Aenean eu nulla odio. Cras ut eros nec tortor molestie vestibulum. Donec non augue finibus, consequat orci nec, laoreet libero. Ut vestibulum nunc mattis orci molestie, eu cursus lorem tempor.
+Sıkıldık sıkılacağımız kadar ama esas sıkıntı sıkılmışlığın fevkinde sıkıldığını yazmak…
