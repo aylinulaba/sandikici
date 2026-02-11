@@ -107,3 +107,17 @@ article img {
   display: block;
   margin: 18px 0;
 }
+
+.back {
+  margin: 0 0 18px;
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.back a {
+  text-decoration: none;
+}
+
+.back a:hover {
+  text-decoration: underline;
+}

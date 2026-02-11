@@ -20,6 +20,10 @@ const Content = post.default;
 
 <BaseLayout title={frontmatter.title}>
   <article>
+    <p class="back">
+      <a href="/">← Archive</a>
+    </p>
+
     <h1>{frontmatter.title}</h1>
     <Content />
   </article>
