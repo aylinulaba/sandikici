@@ -3,7 +3,6 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 const posts = await Astro.glob("../../content/posts/*.md");
 
-// Tarih göstermiyoruz ama sıralamak için kullanıyoruz (varsa)
 posts.sort((a, b) => {
   const da = new Date(a.frontmatter?.date ?? 0).getTime();
   const db = new Date(b.frontmatter?.date ?? 0).getTime();

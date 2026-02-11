@@ -5,7 +5,6 @@
   --hairline: rgba(39, 39, 42, 0.12);
   --max: 680px;
 
-  /* Serif stack (no external font required) */
   --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino,
     "Book Antiqua", Georgia, "Times New Roman", Times, serif;
 }
@@ -44,7 +43,6 @@ a:hover {
   padding: 56px 20px 72px;
 }
 
-/* Archive list */
 .archive {
   list-style: none;
   padding: 0;
@@ -60,7 +58,6 @@ a:hover {
   padding: 4px 0;
 }
 
-/* Post content */
 article {
   margin: 0;
 }
@@ -111,7 +108,7 @@ article img {
 .back {
   margin: 0 0 18px;
   font-size: 14px;
-  color: var(--muted);
+  color: #71717b;
 }
 
 .back a {
