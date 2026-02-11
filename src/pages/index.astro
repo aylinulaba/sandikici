@@ -1,0 +1,16 @@
+---
+const posts = await Astro.glob('../../content/posts/*.md');
+---
+
+<h1>Blog</h1>
+
+<ul>
+  {posts.map((post) => {
+    const slug = post.file.split('/').pop().replace('.md', '');
+    return (
+      <li>
+        <a href={`/blog/${slug}`}>{post.frontmatter.title}</a>
+      </li>
+    );
+  })}
+</ul>
